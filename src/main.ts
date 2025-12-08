@@ -8,14 +8,14 @@ const modules = import.meta.glob('./pages/**/*.md', {
   query: '?raw',
 }) as Record<string, string>;
 
-// 2) Build slug -> markdownContent map
+// 2) slug -> markdownContent map
 const routes: Record<string, string> = {};
 
 for (const path in modules) {
-  // path looks like "./pages/index.md" or "./pages/intro.md"
+  // "./pages/index.md" -> "index"
   const slug = path
-    .replace(/^\.\/pages\//, '')  // "index.md" -> "index.md"
-    .replace(/\.md$/, '');        // "index.md" -> "index"
+    .replace(/^\.\/pages\//, '')
+    .replace(/\.md$/, '');
 
   routes[slug] = modules[path];
 }
@@ -29,17 +29,17 @@ app.innerHTML = `
   <main id="content"></main>
 `;
 
-const nav = document.querySelector<HTMLDivElement>('#nav')!;
+const nav = document.querySelector<HTMLElement>('#nav')!;
 const main = document.querySelector<HTMLElement>('#content')!;
 
-// 4) Render nav from discovered routes
+// 4) Nav from discovered routes
 function renderNav() {
   nav.innerHTML = Object.keys(routes)
     .map((slug) => `<a href="#/${slug}">${slug}</a>`)
     .join(' | ');
 }
 
-// 5) Render a page based on the hash
+// 5) Render markdown page from hash
 function loadPageFromHash() {
   const slug = location.hash.replace(/^#\//, '') || 'index';
   const md = routes[slug];
@@ -49,7 +49,22 @@ function loadPageFromHash() {
     return;
   }
 
-  main.innerHTML = marked.parse(md);
+  const result = marked.parse(md);
+
+  if (result instanceof Promise) {
+    // Async pipeline (e.g. if you ever add async extensions)
+    result
+      .then((html) => {
+        main.innerHTML = html;
+      })
+      .catch((err) => {
+        console.error(err);
+        main.innerHTML = `<h1>Error</h1><p>Failed to render markdown.</p>`;
+      });
+  } else {
+    // Normal sync case
+    main.innerHTML = result;
+  }
 }
 
 // 6) Init
