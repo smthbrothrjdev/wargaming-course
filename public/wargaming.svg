@@ -1,0 +1,49 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  role="img"
+  aria-label="Wargaming course wiki icon"
+>
+  <!-- Book outline -->
+  <g
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <!-- Left page -->
+    <path d="M8 16h18c2.5 0 4.5 2 4.5 4.5v24c-2.2-1.8-4.8-2.7-7.5-2.7H8V16z" />
+    <!-- Right page -->
+    <path d="M56 16H38c-2.5 0-4.5 2-4.5 4.5v24c2.2-1.8 4.8-2.7 7.5-2.7H56V16z" />
+    <!-- Center spine curve -->
+    <path d="M30 46.5c-1.4-1.4-3.7-2.7-7-2.7H8M34 46.5c1.4-1.4 3.7-2.7 7-2.7h15" />
+  </g>
+
+  <!-- Wargaming symbols (left page) -->
+  <g
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <!-- X -->
+    <line x1="13" y1="22" x2="21" y2="30" />
+    <line x1="21" y1="22" x2="13" y2="30" />
+    <!-- O -->
+    <circle cx="25" cy="23" r="3.2" />
+  </g>
+
+  <!-- “Wiki text” lines (right page) -->
+  <g
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2.5"
+    stroke-linecap="round"
+  >
+    <line x1="37" y1="23" x2="51" y2="23" />
+    <line x1="37" y1="29" x2="51" y2="29" />
+    <line x1="37" y1="35" x2="48" y2="35" />
+  </g>
+</svg>
