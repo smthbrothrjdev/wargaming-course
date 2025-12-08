@@ -11,7 +11,8 @@ A dynamic representation of **conflict or competition** in which **people make d
   its for students
 
   **purpose**: reinforce the learning objectives
-  **requires**: knowing learning outcome (know the answer)
+
+**requires**: knowing learning outcome (know the answer)
 
 ### Experientional
   
@@ -19,6 +20,7 @@ A dynamic representation of **conflict or competition** in which **people make d
 
 
 **purpose**: to practice.
+
 **requires**: knowing training objectives.
 
 ### Analytical
@@ -26,6 +28,7 @@ A dynamic representation of **conflict or competition** in which **people make d
  its for the sponsor
 
 **purpose**: Extract insights to identify gaps and challenges.
+
 **requires**: requires expertise from players and understand the sponsor's problem.
 
 ## 5 phases
