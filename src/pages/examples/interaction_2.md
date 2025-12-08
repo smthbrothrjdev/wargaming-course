@@ -98,9 +98,3 @@ These assumptions are constraints for the wargame design. The next step is defin
 - **EQ2:** How to build an integrated and scalable counter-UAS network?
 - **EQ3:** What OFC support is essential for rapid mission success?
 
-## Conclusion and Next Steps
-
-We confirmed the sponsor’s objectives and issues. We structured them into sub-issues and essential questions. These will focus game design on realistic, testable outcomes.
-
-**Next Steps (Interaction 3):** Define scope. Select adjudication method. Assign player roles. Match wargame structure to essential questions and scenario parameters.
-
