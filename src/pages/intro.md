@@ -19,14 +19,14 @@ A dynamic representation of **conflict or competition** in which **people make d
 
 
 **purpose**: to practice.
-  **requires**: knowing training objectives.
+**requires**: knowing training objectives.
 
 ### Analytical
 
  its for the sponsor
 
 **purpose**: Extract insights to identify gaps and challenges.
-  **requires**: requires expertise from players and understand the sponsor's problem.
+**requires**: requires expertise from players and understand the sponsor's problem.
 
 ## 5 phases
 1. Initiate
