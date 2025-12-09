@@ -15,7 +15,7 @@ The sponsor specifically highlights new technologies **counter-drone measures, "
 - **Russian Threat Profile:** Russian forces are expected to use tactics seen in recent wars. This includes mass drone and missile attacks. Counter-UAS and cost-effective interceptors are a priority.
 - **Layered Defense Concept:** NATO uses multiple defensive echelons. These include integrated air and missile defenses, long-range fires, and maneuver units. All are connected by data-sharing and C2.
 - **Coalition Interoperability:** NATO operates under a unified command. Communications and data links are compatible. Political cohesion and data sharing are assumed.
-- **21-Day Campaign Limit:** NATO must expel Russian forces within 21 days. This is a hard limit based on political and strategic factors. The wargame must evaluate if it is feasible.
+- **21-Day Campaign Limit:** NATO must expel Russian forces within 21 days. This is a hard limit based on planning factors and strategic factors. The wargame must evaluate if it is feasible.
 
 These assumptions are constraints for the wargame design. The next step is defining the problem using structured issues and questions.
 
