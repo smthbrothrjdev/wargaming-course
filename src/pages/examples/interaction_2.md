@@ -30,6 +30,7 @@ These assumptions are constraints for the wargame design. The next step is defin
 - **1.1.1**: Which **ground maneuver platforms** (e.g. tanks, IFVs) are essential to fight and survive?
 - **1.1.2**: Which **fires and air defense assets** (e.g. howitzers, SHORAD) are critical to support and protect the brigade?
 - **1.1.3**: What **C2 and communications systems** are required to integrate with EFDL networks?
+- **1.1.4**: What type of operations are going to be effective in support of EFDL
 
 #### 1.2 Integration of Emerging Technologies
 
@@ -41,6 +42,7 @@ These assumptions are constraints for the wargame design. The next step is defin
 
 - **1.3.1**: Does the brigade need new units (e.g. drone company, cyber or EW platoons)?
 - **1.3.2**: How should doctrine and training change to combine traditional and new capabilities?
+- **1.3.3**: How should Tactics, Techniques, And Procudres (TTPs) be adapted in response to changing enemy tactics and strategy.
 
 **Essential Question 1:** **What is the optimal mix of current assets and new technologies for a NATO maneuver brigade to successfully execute the EFDL mission and expel a Russian force in 21 days?**
 
@@ -91,6 +93,14 @@ These assumptions are constraints for the wargame design. The next step is defin
 - **3.3.3**: What sustainment is required for 21 days of high-intensity operations?
 
 **Essential Question 3:** **What critical capabilities and coordination must NATO's Operational Fires Command implement to enable the timely defeat of Russian forces in the EFDL scenario?**
+
+
+### Critical Additional considerations
+
+#### 4.1 Critical Naval capabillities
+- **4.1.1** Which Naval surface and under-surface capabilities are available?
+- **4.1.2** Which Naval fire support packages are critical to support and protect the brigade.
+- **4.1.3** What Naval communication systems and are required to integrate with EFDL Networks
 
 ## Essential Questions Summary
 
