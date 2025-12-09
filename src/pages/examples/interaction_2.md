@@ -40,7 +40,7 @@ These assumptions are constraints for the wargame design. The next step is defin
 
 #### 1.3 Organizational Adaptations
 
-- **1.3.1**: Does the brigade need new units (e.g. drone company, cyber or EW platoons)?
+- **1.3.1**: Does the brigade need different unit structures such as a multi-domain concept (e.g. drone company, cyber or EW platoons)?
 - **1.3.2**: How should doctrine and training change to combine traditional and new capabilities?
 - **1.3.3**: How should Tactics, Techniques, And Procudres (TTPs) be adapted in response to changing enemy tactics and strategy.
 
@@ -67,6 +67,7 @@ These assumptions are constraints for the wargame design. The next step is defin
 - **2.3.1**: What **network architecture** will link NATO sensors and shooters in real time?
 - **2.3.2**: What **AI battle management systems** will automate sensor fusion and weapon cueing?
 - **2.3.3**: What **interoperability rules and ROE** enable multinational coordination and engagement at scale?
+- **2.3.4**: How does introduction of new capabilities integrate into existing C2 and orgazational Battle Management infrastucture. 
 
 **Essential Question 2:** **How can NATO effectively integrate a network of sensors and shooters to counter mass drone attacks and other aerial threats under the EFDL concept?**
 
