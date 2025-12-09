@@ -1,4 +1,4 @@
-# Golden Interaction 2 Backbrief - Eastern Flank Deterrence Line (EFDL) War game
+# Golden Interaction 2 Backbrief - Eastern Flank Deterrence Line (EFDL)
 
 ## Sponsor's Objective and Context
 
