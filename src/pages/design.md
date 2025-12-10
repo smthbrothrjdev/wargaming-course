@@ -21,3 +21,16 @@
 
 ### Assumption
 - A statement related to the study that is taken as true in the absence of facts, often **often to accomodate a limitation**
+
+### Five Tenets of assumptions
+1. Full vs Key
+2. Develop in order
+3. Criteria: Necessary, Valid, **Accepted**
+4. Continually review and update)
+5. Tailor to audience 
+
+### Sources
+- Sponsor
+- Wargaming team (when focusing or constraining the players operating within the published rules)
+- Wargaming team (when accomodating a limitation)
+
