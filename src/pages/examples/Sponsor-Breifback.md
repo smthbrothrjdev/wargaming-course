@@ -1,4 +1,4 @@
-# Sponsor Briefback: EFDL Wargame CLA Overview
+# Sponsor Briefback
 
 ## Objective
 Identify how integration of sensors, uncrewed systems, and AI-enabled C2 can counter adversary force overmatch in a high-intensity conflict scenario on NATO’s eastern flank.
@@ -11,7 +11,7 @@ Identify how integration of sensors, uncrewed systems, and AI-enabled C2 can cou
 
 ## Assumptions
 - Scenario is based on near-future capabilities (1–3 years).
-- Friendly forces represent scaled-down brigade (battalion-equivalent).
+- Friendly forces represent scaled-down force (brigade equivalent).
 - Enemy maintains 3:1 numerical overmatch across engagements.
 - EW, drone, AI systems will be modeled based on open-source estimations.
 - No WMD use is assumed.
