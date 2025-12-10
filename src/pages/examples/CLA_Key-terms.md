@@ -8,7 +8,7 @@ Sponsor requires that adversary forces maintain a 3:1 numerical advantage across
 
 **C2. Use of Uncrewed Systems & AI-Enabled Networked C2**  
 Sponsor mandates the inclusion of drones, robotic systems, and automated battle management to reflect core aspects of the EFDL concept.  
-- **Assumption A2.1:** Blue forces will possess and employ AI-supported targeting tools and a heterogeneous suite of low-cost uncrewed systems (UAS, loitering munitions).
+- **Assumption A2.1:** Blue forces will possess and employ AI-supported targeting tools and a diverse suite of low-cost uncrewed systems (UAS, loitering munitions).
 
 **C3. Scenario Scope: Fixed Geographic and Strategic Context**  
 The wargame must take place within the NATO eastern flank in a near-future conflict. WMDs are not expected or planned for.  
